@@ -1,0 +1,45 @@
+.Center {
+	text-align: center;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.green {
+	color: green;
+}
+
+.FontBig { 
+	font-size: 25px;
+ }
+
+ .FontTiny {
+ 	font-size: 8px;
+ }
+
+ .bold {
+ 	font-weight: bold;
+ }
+
+ .fontFamily {
+ 	font-family: "Comic Sans MS", Georgia, Serif, italic;
+ }
+
+ .multiple { 
+ 	font-size: 20px;
+ 	font-weight: bold;
+ 	color: orange;
+ }
+
+ .styledFont {
+ 	color: blue;
+ }
+
+ #styledImage {
+ 	border: 10px solid red;
+ }

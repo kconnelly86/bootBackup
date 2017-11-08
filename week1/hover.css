@@ -1,0 +1,11 @@
+.hover:hover{
+	color:   pink;
+}
+
+.focus:focus{
+	background-color:  purple;
+}
+
+.active:active{
+	background-color: blue;
+}
